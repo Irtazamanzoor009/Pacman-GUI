@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PacMan.GameGL.GameCell">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAIAAAQAQAAAAwACACIAAADgAAAAAAAAYAA=</HashCode>
+      <FileName>GameGL\GameCell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan.GameGL.GameGrid">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAEIAAABAAIACAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\GameGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan.GameGL.GameObject">
+    <Position X="3.75" Y="5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAABAAAAEgAAQBAAAEAAEAAAABA=</HashCode>
+      <FileName>GameGL\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan.GameGL.GamePacManPlayer">
+    <Position X="3.75" Y="9" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\GamePacManPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacManGUI.GameGL.Ghost">
+    <Position X="7.5" Y="9" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>GameGL\Ghost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacManGUI.GameGL.HorizontalGhost">
+    <Position X="2" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAIAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\HorizontalGhost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacManGUI.GameGL.RandomGhost">
+    <Position X="4.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\RandomGhost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacManGUI.GameGL.VerticalGhost">
+    <Position X="7.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAIAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\VerticalGhost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacManGUI.SmartGhost">
+    <Position X="10.25" Y="12.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAIA=</HashCode>
+      <FileName>SmartGhost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacManGUI.GameGL.Bullets">
+    <Position X="10.75" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAACIAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>GameGL\Bullets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacManGUI.GameGL.CollisionDetection">
+    <Position X="10.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>GameGL\CollisionDetection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="PacMan.GameGL.GameDirection">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>GameGL\GameDirection.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PacMan.GameGL.GameObjectType">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAMAAAAAAQAAAABAAAAAAAAAAAABAAAAEAA=</HashCode>
+      <FileName>GameGL\GameObjectType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
